@@ -10,10 +10,10 @@ Currently pursuing a degree in Computer Science with a strong interest in Web De
 
 ### 🚀 Projects
 
-- **[Celebrity Look-Alike]()**  
+- **[Celebrity Look-Alike](https://github.com/prathyushh/celebrity-look-alike)**  
   Machine Learning application that matches user faces with celebrities using FaceNet and Python.
 
-- *[Meeting Scheduler](#)*  
+- *[Meeting Scheduler]()*  
   Web-based application to schedule meetings efficiently with integrated calendar support.
 
 ---
