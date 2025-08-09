@@ -15,6 +15,10 @@ Currently pursuing a degree in Computer Science with a strong interest in Web De
 
 - *[Meeting Scheduler](https://github.com/prathyushh/facultymeetingscheduler)*  
   Web-based application to schedule meetings efficiently with integrated calendar support.
+  
+- *[Code-Engine](https://github.com/prathyushh/facultymeetingscheduler)*  
+  Web-based application to schedule meetings efficiently with integrated calendar support.
+  
 
 ---
 
