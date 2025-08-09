@@ -13,7 +13,7 @@ Currently pursuing a degree in Computer Science with a strong interest in Web De
 - **[Celebrity Look-Alike](https://github.com/prathyushh/celebrity-look-alike)**  
   Machine Learning application that matches user faces with celebrities using FaceNet and Python.
 
-- *[Meeting Scheduler]()*  
+- *[Meeting Scheduler](https://github.com/prathyushh/facultymeetingscheduler)*  
   Web-based application to schedule meetings efficiently with integrated calendar support.
 
 ---
@@ -34,7 +34,7 @@ Currently pursuing a degree in Computer Science with a strong interest in Web De
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Django-000000?style=for-the-badge&logo=flask&logoColor=white" />
 </p>
 
 #### <img src="https://img.shields.io/badge/-Programming%20Languages-yellow?style=for-the-badge&logo=codesignal&logoColor=white" />
