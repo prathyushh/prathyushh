@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Prathyush M</h1>
-<h3 align="center">Web Development Enthusiast | AI Explorer</h3>
+<h3 align="center">AI & Machine Learning Enthusiast | Passionate Web Developer</h3>
 
 ---
 
 🎓 *Education*:  
-Currently pursuing a degree in Computer Science with a strong interest in Web Development and Machine Learning.
-
+Currently pursuing a degree in Computer Science, with a strong passion for Machine Learning and Web Development, and actively working on projects that combine both fields.
 ---
 
 ### 🚀 Projects
@@ -56,16 +55,18 @@ Ongoing
   <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" />
 </p>
 
+
+
 ---
 
 ### 📫 Contact
-
+>gmail: prathyushpavithran888@gmail.com
 > 💬 Feel free to reach out for collaboration, queries, or just to say hi!
 
 ---
 
 ### ⚡ Fun Fact
 
-I enjoy building creative web solutions and experimenting with machine learning models that solve real-world problems.
+I enjoy creating innovative web solutions and developing machine learning models aimed at solving real-world challenges.
 
 ---
