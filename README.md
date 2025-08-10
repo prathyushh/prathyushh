@@ -18,10 +18,10 @@ Currently pursuing a degree in Computer Science, with a strong passion for Machi
 - *[Code-Engine](https://github.com/prathyushh/code-engine)*  
  A simple online code runner supporting Python, JavaScript, C++, C, and Java. Write code, provide custom input, and run it directly in your browser.
 
-- *[Back2Roots](https://github.com/prathyushh/Back2Roots))*  
+- *[Back2Roots](https://github.com/prathyushh/Back2Roots)*  
 Ongoing
 
-- *[Digi-Pay-Student-Module](https://github.com/prathyushh/Digi-Pay-Student-Module))*  
+- *[Digi-Pay-Student-Module](https://github.com/prathyushh/Digi-Pay-Student-Module)*  
 Ongoing
 
 
